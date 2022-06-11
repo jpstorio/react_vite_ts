@@ -1,5 +1,4 @@
 import { useState } from "react";
-import logo from "./logo.svg";
 import "./App.css";
 
 function App() {
@@ -8,7 +7,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <p>Hello Vite + React + TypeScript</p>
+        <p>Vite + React + TypeScript</p>
       </header>
     </div>
   );
